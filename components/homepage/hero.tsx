@@ -31,7 +31,7 @@ const Hero = () => {
         </h1>
         <h3 className="text-muted-foreground flex flex-col items-center gap-2">
           <Balancer>
-            Kamiak&apos;s <span className='italic'>first</span> hackathon, brought to you by CS Club
+            Kamiak&apos;s FIRST EVER hackathon, free of cost, brought to you by CS Club
           </Balancer>
           <Balancer>
             Saturday, 12/7/24 @ Commons
