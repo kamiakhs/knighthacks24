@@ -51,7 +51,7 @@ const FAQ = () => {
       <Container>
         <h3 className="!mt-0">Frequently Asked Questions</h3>
         <h4 className="text-muted-foreground">
-          Can't find the answer you're looking for? Please contact KHS CS Club
+          Can&apos;t find the answer you&apos;re looking for? Please contact KHS CS Club
           on <a href='https://www.instagram.com/kamiakcsclub/'>Instagram</a>
         </h4>
         <div className="not-prose mt-4 flex flex-col gap-4 md:mt-8">

@@ -35,7 +35,7 @@ export default function Footer() {
             </Link>
             <p>
               <Balancer>
-                Brought to you by Kamiak's very own CS Club and STEM Club.
+                Brought to you by Kamiak&apos;s very own CS Club and STEM Club.
               </Balancer>
             </p>
           </div>

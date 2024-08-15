@@ -42,7 +42,7 @@ const FeatureSteps = () => {
         <div className="flex flex-col gap-6">
           <h3 className="text-4xl">
             <Balancer>
-              How it'll work
+              How it&apos;ll work
             </Balancer>
           </h3>
           <h4 className="text-2xl font-light opacity-70">
